@@ -1,3 +1,5 @@
 *.out
+*.test
 Caddyfile
 todo.md
+api_documentation.pdf
